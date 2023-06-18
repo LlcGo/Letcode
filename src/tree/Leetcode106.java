@@ -8,7 +8,7 @@ import java.util.Map;
  * @Date 2023/6/14
  * @Description 中序与后续遍历构造二叉树
  */
-public class Letcode106 {
+public class Leetcode106 {
     static Map<Integer, Integer> map = new HashMap<>();
 
     public static void main(String[] args) {

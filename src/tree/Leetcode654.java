@@ -5,11 +5,10 @@ package tree;
  * @Date 2023/6/16
  * @Description 最大二叉树
  */
-public class Letcode654 {
+public class Leetcode654 {
     public static void main(String[] args) {
        int[] a  = new int[]{3,2,1,6,0,5};
         TreeNode treeNode = constructMaximumBinaryTree(a);
-
     }
     public static TreeNode constructMaximumBinaryTree(int[] nums) {
         return constur(nums,0,nums.length);

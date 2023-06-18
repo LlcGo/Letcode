@@ -6,7 +6,7 @@ package tree;
  * @Date 2023/6/13
  * @Description  判断树的节点之和是否有 这个值
  */
-public class Letcode112 {
+public class Leetcode112 {
     public static void main(String[] args) {
         TreeNode treeNode = new TreeNode(5);
         TreeNode LeftTreeNode4 = new TreeNode(4);
