@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2139b1c-33fa-4e9a-96b6-b247d19818c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tree/Leetcode701.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/Leetcode450.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -190,7 +190,9 @@
       <workItem from="1687602304911" duration="1258000" />
       <workItem from="1687612305926" duration="72000" />
       <workItem from="1687778150847" duration="984000" />
-      <workItem from="1687868215860" duration="239000" />
+      <workItem from="1687868215860" duration="730000" />
+      <workItem from="1687869883047" duration="41000" />
+      <workItem from="1687950954783" duration="277000" />
     </task>
     <task id="LOCAL-00001" summary="6/13 树的总路径">
       <created>1686655054376</created>
@@ -262,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687780097804</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="6/27 二叉搜索树的插入">
+      <created>1687868496943</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687868496943</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,25 +289,26 @@
     <MESSAGE value="6/23 二叉搜索树众数" />
     <MESSAGE value="6/24 二叉树最近公共祖先" />
     <MESSAGE value="6/26 二叉搜索树的最近公共祖先" />
-    <option name="LAST_COMMIT_MESSAGE" value="6/26 二叉搜索树的最近公共祖先" />
+    <MESSAGE value="6/27 二叉搜索树的插入" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/27 二叉搜索树的插入" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1686802829978">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="392" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.852@0.0.1600.852" timestamp="1686802829978" />
-    <state x="239" y="0" key="CommitChangelistDialog2" timestamp="1687780095947">
+    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1687868495052">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="239" y="0" key="CommitChangelistDialog2/0.0.1600.852@0.0.1600.852" timestamp="1687780095947" />
+    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1600.852@0.0.1600.852" timestamp="1687868495052" />
     <state width="449" height="761" key="DebuggerActiveHint" timestamp="1687521365514">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state width="449" height="761" key="DebuggerActiveHint/0.0.1600.852@0.0.1600.852" timestamp="1687521365514" />
-    <state x="530" y="101" key="FileChooserDialogImpl" timestamp="1687780254154">
+    <state x="530" y="101" key="FileChooserDialogImpl" timestamp="1687869922848">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="530" y="101" key="FileChooserDialogImpl/0.0.1600.852@0.0.1600.852" timestamp="1687780254154" />
+    <state x="530" y="101" key="FileChooserDialogImpl/0.0.1600.852@0.0.1600.852" timestamp="1687869922848" />
     <state x="617" y="299" key="Gitee.ShareDialog" timestamp="1686655085855">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
@@ -311,10 +321,10 @@
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="177" y="0" key="SettingsEditor/0.0.1600.852@0.0.1600.852" timestamp="1686911942509" />
-    <state x="292" y="83" key="Vcs.Push.Dialog.v2" timestamp="1687780125515">
+    <state x="292" y="83" key="Vcs.Push.Dialog.v2" timestamp="1687868518474">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="292" y="83" key="Vcs.Push.Dialog.v2/0.0.1600.852@0.0.1600.852" timestamp="1687780125515" />
+    <state x="292" y="83" key="Vcs.Push.Dialog.v2/0.0.1600.852@0.0.1600.852" timestamp="1687868518474" />
     <state x="606" y="0" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1686802846405">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
