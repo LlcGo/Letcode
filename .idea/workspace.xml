@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2139b1c-33fa-4e9a-96b6-b247d19818c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tree/leetcode669.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/Leetcode108.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -71,7 +71,20 @@
       <recent name="tree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.leetcode669">
+  <component name="RunManager" selected="Application.Leetcode108">
+    <configuration name="Leetcode108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.Leetcode108" />
+      <module name="Letcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Leetcode236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.Leetcode236" />
       <module name="Letcode" />
@@ -87,19 +100,6 @@
     </configuration>
     <configuration name="leetcode501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.leetcode501" />
-      <module name="Letcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leetcode530" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.leetcode530" />
       <module name="Letcode" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode108" />
         <item itemvalue="Application.leetcode669" />
         <item itemvalue="Application.Leetcode236" />
         <item itemvalue="Application.leetcode501" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.leetcode530" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +194,8 @@
       <workItem from="1687869883047" duration="41000" />
       <workItem from="1687950954783" duration="1719000" />
       <workItem from="1687963640915" duration="30000" />
-      <workItem from="1688199506804" duration="2591000" />
+      <workItem from="1688199506804" duration="3666000" />
+      <workItem from="1688390597643" duration="242000" />
     </task>
     <task id="LOCAL-00001" summary="6/13 树的总路径">
       <created>1686655054376</created>
@@ -280,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687951249002</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="7/1 二叉树中的修剪">
+      <created>1688206565772</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688206565772</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,25 +308,26 @@
     <MESSAGE value="6/26 二叉搜索树的最近公共祖先" />
     <MESSAGE value="6/27 二叉搜索树的插入" />
     <MESSAGE value="6/28 二叉树中的删除节点" />
-    <option name="LAST_COMMIT_MESSAGE" value="6/28 二叉树中的删除节点" />
+    <MESSAGE value="7/1 二叉树中的修剪" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/1 二叉树中的修剪" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1686802829978">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="392" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.852@0.0.1600.852" timestamp="1686802829978" />
-    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1687951247256">
+    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1688206564092">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1600.852@0.0.1600.852" timestamp="1687951247256" />
+    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1600.852@0.0.1600.852" timestamp="1688206564092" />
     <state width="449" height="761" key="DebuggerActiveHint" timestamp="1688206469985">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state width="449" height="761" key="DebuggerActiveHint/0.0.1600.852@0.0.1600.852" timestamp="1688206469985" />
-    <state x="530" y="101" key="FileChooserDialogImpl" timestamp="1687963670132">
+    <state x="530" y="101" key="FileChooserDialogImpl" timestamp="1688217878363">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="530" y="101" key="FileChooserDialogImpl/0.0.1600.852@0.0.1600.852" timestamp="1687963670132" />
+    <state x="530" y="101" key="FileChooserDialogImpl/0.0.1600.852@0.0.1600.852" timestamp="1688217878363" />
     <state x="617" y="299" key="Gitee.ShareDialog" timestamp="1686655085855">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
@@ -327,46 +336,46 @@
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="643" y="286" width="339" height="279" key="Github.ShareDialog/0.0.1600.852@0.0.1600.852" timestamp="1686912261422" />
-    <state width="1547" height="563" key="GridCell.Tab.0.bottom" timestamp="1688206446467">
+    <state width="1547" height="-13" key="GridCell.Tab.0.bottom" timestamp="1688390720859">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state width="1547" height="563" key="GridCell.Tab.0.bottom/0.0.1600.852@0.0.1600.852" timestamp="1688206446467" />
-    <state width="1547" height="563" key="GridCell.Tab.0.center" timestamp="1688206446467">
+    <state width="1547" height="-13" key="GridCell.Tab.0.bottom/0.0.1600.852@0.0.1600.852" timestamp="1688390720859" />
+    <state width="1547" height="-13" key="GridCell.Tab.0.center" timestamp="1688390720859">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state width="1547" height="563" key="GridCell.Tab.0.center/0.0.1600.852@0.0.1600.852" timestamp="1688206446467" />
-    <state width="1547" height="563" key="GridCell.Tab.0.left" timestamp="1688206446467">
+    <state width="1547" height="-13" key="GridCell.Tab.0.center/0.0.1600.852@0.0.1600.852" timestamp="1688390720859" />
+    <state width="1547" height="-13" key="GridCell.Tab.0.left" timestamp="1688390720859">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state width="1547" height="563" key="GridCell.Tab.0.left/0.0.1600.852@0.0.1600.852" timestamp="1688206446467" />
-    <state width="1547" height="563" key="GridCell.Tab.0.right" timestamp="1688206446467">
+    <state width="1547" height="-13" key="GridCell.Tab.0.left/0.0.1600.852@0.0.1600.852" timestamp="1688390720859" />
+    <state width="1547" height="-13" key="GridCell.Tab.0.right" timestamp="1688390720859">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state width="1547" height="563" key="GridCell.Tab.0.right/0.0.1600.852@0.0.1600.852" timestamp="1688206446467" />
-    <state width="1547" height="563" key="GridCell.Tab.1.bottom" timestamp="1688206446468">
+    <state width="1547" height="-13" key="GridCell.Tab.0.right/0.0.1600.852@0.0.1600.852" timestamp="1688390720859" />
+    <state width="1547" height="-13" key="GridCell.Tab.1.bottom" timestamp="1688390721071">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state width="1547" height="563" key="GridCell.Tab.1.bottom/0.0.1600.852@0.0.1600.852" timestamp="1688206446468" />
-    <state width="1547" height="563" key="GridCell.Tab.1.center" timestamp="1688206446467">
+    <state width="1547" height="-13" key="GridCell.Tab.1.bottom/0.0.1600.852@0.0.1600.852" timestamp="1688390721071" />
+    <state width="1547" height="-13" key="GridCell.Tab.1.center" timestamp="1688390721071">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state width="1547" height="563" key="GridCell.Tab.1.center/0.0.1600.852@0.0.1600.852" timestamp="1688206446467" />
-    <state width="1547" height="563" key="GridCell.Tab.1.left" timestamp="1688206446467">
+    <state width="1547" height="-13" key="GridCell.Tab.1.center/0.0.1600.852@0.0.1600.852" timestamp="1688390721071" />
+    <state width="1547" height="-13" key="GridCell.Tab.1.left" timestamp="1688390721071">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state width="1547" height="563" key="GridCell.Tab.1.left/0.0.1600.852@0.0.1600.852" timestamp="1688206446467" />
-    <state width="1547" height="563" key="GridCell.Tab.1.right" timestamp="1688206446467">
+    <state width="1547" height="-13" key="GridCell.Tab.1.left/0.0.1600.852@0.0.1600.852" timestamp="1688390721071" />
+    <state width="1547" height="-13" key="GridCell.Tab.1.right" timestamp="1688390721071">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state width="1547" height="563" key="GridCell.Tab.1.right/0.0.1600.852@0.0.1600.852" timestamp="1688206446467" />
+    <state width="1547" height="-13" key="GridCell.Tab.1.right/0.0.1600.852@0.0.1600.852" timestamp="1688390721071" />
     <state x="177" y="0" key="SettingsEditor" timestamp="1686911942509">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="177" y="0" key="SettingsEditor/0.0.1600.852@0.0.1600.852" timestamp="1686911942509" />
-    <state x="292" y="83" key="Vcs.Push.Dialog.v2" timestamp="1687951268445">
+    <state x="292" y="83" key="Vcs.Push.Dialog.v2" timestamp="1688206595172">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="292" y="83" key="Vcs.Push.Dialog.v2/0.0.1600.852@0.0.1600.852" timestamp="1687951268445" />
+    <state x="292" y="83" key="Vcs.Push.Dialog.v2/0.0.1600.852@0.0.1600.852" timestamp="1688206595172" />
     <state x="606" y="0" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1686802846405">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
