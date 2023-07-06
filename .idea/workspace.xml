@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2139b1c-33fa-4e9a-96b6-b247d19818c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,7 +352,8 @@
     <MESSAGE value="6/28 二叉树中的删除节点" />
     <MESSAGE value="7/1 二叉树中的修剪" />
     <MESSAGE value="7/1 将有序数组转换为二叉搜索树" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/1 将有序数组转换为二叉搜索树" />
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="292" y="0" key="#Notifications" timestamp="1688641387866">
