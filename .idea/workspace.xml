@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2139b1c-33fa-4e9a-96b6-b247d19818c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tree/Leetcode538.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -43,7 +42,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GiteePullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://gitee.com/k71625/Letcode.git" />
+      </set>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/LlcGo/Letcode.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="2R9EU8VDAY1KiOxj2x3RX7b0poo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,7 +82,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -139,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Leetcode108" />
-        <item itemvalue="Application.leetcode669" />
-        <item itemvalue="Application.Leetcode236" />
-        <item itemvalue="Application.leetcode501" />
         <item itemvalue="Application.test" />
+        <item itemvalue="Application.leetcode669" />
+        <item itemvalue="Application.leetcode501" />
+        <item itemvalue="Application.Leetcode236" />
+        <item itemvalue="Application.Leetcode108" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +178,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Lc\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -198,6 +216,8 @@
       <workItem from="1688390597643" duration="410000" />
       <workItem from="1688391086139" duration="32000" />
       <workItem from="1688463065220" duration="1488000" />
+      <workItem from="1688641311364" duration="1376000" />
+      <workItem from="1688642900670" duration="155000" />
     </task>
     <task id="LOCAL-00001" summary="6/13 树的总路径">
       <created>1686655054376</created>
@@ -303,7 +323,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="RELOAD_CONTEXT" value="false" />
     <MESSAGE value="6/13 树的总路径" />
     <MESSAGE value="6/14 给中序和后序计算出整颗树" />
     <MESSAGE value="6/15  给数组 每次根据最大的数组的值划分二叉树" />
@@ -322,6 +356,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="7/1 将有序数组转换为二叉搜索树" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="292" y="0" key="#Notifications" timestamp="1688641387866">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="292" y="0" key="#Notifications/0.0.1600.852@0.0.1600.852" timestamp="1688641387866" />
     <state x="392" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1686802829978">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
@@ -334,6 +372,10 @@
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state width="449" height="761" key="DebuggerActiveHint/0.0.1600.852@0.0.1600.852" timestamp="1688206469985" />
+    <state x="-1" y="137" width="1416" height="665" key="DiffContextDialog" timestamp="1688642040507">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="-1" y="137" width="1416" height="665" key="DiffContextDialog/0.0.1600.852@0.0.1600.852" timestamp="1688642040507" />
     <state x="530" y="101" key="FileChooserDialogImpl" timestamp="1688391117138">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
@@ -378,10 +420,14 @@
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state width="1547" height="36" key="GridCell.Tab.1.right/0.0.1600.852@0.0.1600.852" timestamp="1688391007845" />
-    <state x="177" y="0" key="SettingsEditor" timestamp="1686911942509">
+    <state x="126" y="0" key="SettingsEditor" timestamp="1688643055497">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="177" y="0" key="SettingsEditor/0.0.1600.852@0.0.1600.852" timestamp="1686911942509" />
+    <state x="126" y="0" key="SettingsEditor/0.0.1600.852@0.0.1600.852" timestamp="1688643055497" />
+    <state x="92" y="92" width="1416" height="668" key="ShowDiffWithBranchDialog" timestamp="1688642040507">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="92" y="92" width="1416" height="668" key="ShowDiffWithBranchDialog/0.0.1600.852@0.0.1600.852" timestamp="1688642040507" />
     <state x="292" y="83" key="Vcs.Push.Dialog.v2" timestamp="1688390981896">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
@@ -390,10 +436,22 @@
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="606" y="0" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1600.852@0.0.1600.852" timestamp="1686802846405" />
+    <state x="92" y="92" width="1416" height="668" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1688642040507">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="92" y="92" width="1416" height="668" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1600.852@0.0.1600.852" timestamp="1688642040507" />
+    <state x="540" y="156" key="git4idea.merge.GitMergeDialog" timestamp="1688639369464">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="540" y="156" key="git4idea.merge.GitMergeDialog/0.0.1600.852@0.0.1600.852" timestamp="1688639369464" />
     <state x="432" y="151" key="git4idea.merge.GitPullDialog" timestamp="1687522785262">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="432" y="151" key="git4idea.merge.GitPullDialog/0.0.1600.852@0.0.1600.852" timestamp="1687522785262" />
+    <state x="567" y="232" key="git4idea.ui.GitUnstashDialog" timestamp="1688640501050">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="567" y="232" key="git4idea.ui.GitUnstashDialog/0.0.1600.852@0.0.1600.852" timestamp="1688640501050" />
     <state x="379" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1686792371237">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
