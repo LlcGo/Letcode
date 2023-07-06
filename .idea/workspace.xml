@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2139b1c-33fa-4e9a-96b6-b247d19818c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/tree/Leetcode538.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,11 +198,6 @@
       <workItem from="1688390597643" duration="410000" />
       <workItem from="1688391086139" duration="32000" />
       <workItem from="1688463065220" duration="1488000" />
-<<<<<<< Updated upstream
-=======
-      <workItem from="1688641311364" duration="1376000" />
-      <workItem from="1688642900670" duration="456000" />
->>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="6/13 树的总路径">
       <created>1686655054376</created>
