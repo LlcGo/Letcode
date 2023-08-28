@@ -9,11 +9,11 @@ package dp;
  */
 
 public class LeetCode494 {
-
+    static int [] nums = new int[]{1,1,1,1,1};
+    static int target = 3;
     public static void main(String[] args) {
-           int [] nums = new int[]{1,1,1,1,1,1};
-           int target = 3;
         int targetSumWays = findTargetSumWays(nums, target);
+        System.out.println(targetSumWays);
     }
 
     public static int findTargetSumWays(int[] nums, int target) {
